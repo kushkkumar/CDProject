@@ -1,0 +1,6 @@
+print "string"
+input _var
+for i = 3 to 4
+var := --var
+next i
+end
