@@ -1,6 +1,6 @@
-#Compiler Design Project
+# Compiler Design Project
 
-##Developed by Ankush Kumar N (4NM17CS022) and Ankith Bhandary((4NM17CS020)
+## Developed by Ankush Kumar N (4NM17CS022) and Ankith Bhandary((4NM17CS020)
 
 
 ### print "string"
